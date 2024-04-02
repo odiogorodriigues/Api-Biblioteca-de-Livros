@@ -14,7 +14,7 @@ Esta é uma API Node.js simples para gerenciar uma biblioteca de livros. Permite
 2. Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/api-biblioteca-livros.git
+git clone https://github.com/odiogorodriigues/Api-Biblioteca-de-Livros.git
 ```
 
 3. Na raiz do projeto, instale as dependências utilizando npm ou yarn:
@@ -47,4 +47,4 @@ Certifique-se de fornecer os dados necessários nos formatos adequados para cada
 
 ## Links
 
-Entre na api pelo link: https://api-biblioteca-de-livros-1bkb2zlhj-odiogorodriigues-projects.vercel.app
+Entre na api pelo link: 
