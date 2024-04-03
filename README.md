@@ -47,4 +47,4 @@ Certifique-se de fornecer os dados necessários nos formatos adequados para cada
 
 ## Links
 
-Entre na api pelo link: 
+Entre na api pelo link: https://api-biblioteca-de-livros-mtomqicjd-odiogorodriigues-projects.vercel.app/livros
